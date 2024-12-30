@@ -15,5 +15,5 @@
 homepage: "https://github.com/74minutos/server_gtm_uuid"
 documentation: "https://github.com/74minutos/server_gtm_uuid/readme"
 versions:
-  - sha: 5f02a788b90ae804f86b04aa24af8937e567874a
-    changeNotes: Initial Version
+  - sha: a572c58dfa44185fda4f6a9280ba067b00519662
+    changeNotes: Initial Functional Version
